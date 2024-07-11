@@ -3,6 +3,8 @@
 This is a distributed chat application built with Java, Spring Boot, and Apache Kafka. It provides real-time messaging features and uses a microservices architecture to handle user management, message processing, and notifications.
 
 ## Project Structure
+
+```plaintext
 src/
 ├── main/
 │   ├── java/
@@ -20,6 +22,7 @@ src/
 │   │                   └── NotificationService.java
 │   └── resources/
 │       └── application.properties
+
 ## Features
 
 - User registration and authentication
