@@ -22,6 +22,7 @@ src/
 │   │                   └── NotificationService.java
 │   └── resources/
 │       └── application.properties
+```plaintext
 
 ## Features
 
